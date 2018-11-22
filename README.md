@@ -41,6 +41,11 @@ Two donut chart can be obtained using the python program donutGraphsForSentiment
 
 ![alt text](https://github.com/siddhaling/3D-Visualization-of-Sentiment-Measures-and-Classification-using-Combined-Classifier-for-Reviews/blob/master/donutNegativeWords.jpg)
 
+### Review Sentiment Classification
+
+The sentiment classification of amazon reviews is performed as shown in figure below. The customer reviews are read from JSON files. Preprocessing of reviews is carried out such as word tokenization and stop word removal. From the collection of reviews, using most common words a bag of words is created. From each review feature vectors are formed and further classification is performed using SVM. The sentiment classification is given in python code reviewSentimentClassification_6.py.
+
+![alt text](https://github.com/siddhaling/3D-Visualization-of-Sentiment-Measures-and-Classification-using-Combined-Classifier-for-Reviews/blob/master/fig2.jpg)
 # Research Paper
 
 The full research paper 3D visualization of sentiment information and sentiment classification of reviews is available (OPEN ACCESS): 
