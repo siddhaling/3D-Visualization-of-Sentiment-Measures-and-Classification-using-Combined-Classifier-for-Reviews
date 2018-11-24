@@ -56,7 +56,7 @@ http://thesai.org/Publications/ViewPaper?Volume=9&Issue=5&Code=IJACSA&SerialNo=8
 
 Please cite as 
 
-Siddhaling Urologin, Sunil Thomas, "3D Visualization of Sentiment Measures and Sentiment Classification using Combined Classifier for Customer Product Reviews",  International Journal of Advanced Computer Science and Applications (IJACSA), Volume 9 Issue 5, June, 2018. 
+Siddhaling Urologin, Sunil Thomas, "3D Visualization of Sentiment Measures and Sentiment Classification using Combined Classifier for Customer Product Reviews",  International Journal of Advanced Computer Science and Applications (IJACSA), Volume 9 Issue 5, pp. 60-68, June, 2018. 
 
 # Further Projects and Contact
 
