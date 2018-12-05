@@ -1,8 +1,8 @@
 # 3D Visualization of Sentiment Measures and Classification using Combined Classifier for Reviews
 
-These are set of python program which perform sentiment analysis of the customer reviews and depict the sentiment information using 3D and 2D visualizations. The python code also support writing of statistics about the analyzed sentiment information into files. Few customer review files are included in the folder of AmazonReviews.
+These are set of python program which perform sentiment analysis of the customer reviews and depict the sentiment information using 3D and 2D visualizations. The python code also writes the detailed statistics about the analyzed sentiment information into the files. Examples for few customer review files are included in the folder of AmazonReviews.
 
-The steps carried out to perform visualization are shown in the below figure. The customer reviews which are in JSON format are read. Word tokenization is carried out and followed by stop words elimination. To remove the stop words, a data base of stop words is referred. Then the sentiment analysis of the review is performed using VADER sentiment analyzer. Then the sentiment information is depicted into various 3D and 2D visualizations.
+The steps carried out to perform sentiment visualization of customer reviews are shown in the below figure. The customer reviews which are in JSON format are read as input. Word tokenization is carried out and followed by stop words elimination. To remove the stop words, a data base of stop words is referred. Then the sentiment analysis of the review is performed using VADER sentiment analyzer. The sentiment information is depicted into various 3D and 2D visualization schemes.
 
 ![alt text](https://github.com/siddhaling/3D-Visualization-of-Sentiment-Measures-and-Classification-using-Combined-Classifier-for-Reviews/blob/master/fig1.jpg)
 
@@ -14,7 +14,8 @@ The 3D surface plotting of sentiment information is carried out using the python
 
 ### 3D Scatter Plot of SentimentInfo
 
-The 3D scatter plot is scatter plot of number of positive, negative and neutral sentiment words is shown below. The program 3DScatterPlotOfSentimentInfo_2.py makes the 3D scatter plot. 
+The 3D scatter plot is generated as the plot of number of positive, negative and neutral sentiment words is shown below. The program 3DScatterPlotOfSentimentInfo_2.py makes the 3D scatter plot.
+
 ![alt text](https://github.com/siddhaling/3D-Visualization-of-Sentiment-Measures-and-Classification-using-Combined-Classifier-for-Reviews/blob/master/3DScatter.jpg)
 
 ### 3D Column Plot of SentimentInfo
@@ -25,11 +26,11 @@ The compound sentiment score is plotted as 3D columns with respect to number of 
 
 ### Sentiment Statistics to Excel
 
-The sentiment statistics such as negative, neutral, positive, compound score and number of positive, negative, neutral words are written to a excel sheet reviewsAndSenti.xls. 
+The sentiment statistics such as negative, neutral, positive, compound score and number of positive, negative, neutral words are written to the excel sheet reviewsAndSenti.xls. 
 
 ![alt text](https://github.com/siddhaling/3D-Visualization-of-Sentiment-Measures-and-Classification-using-Combined-Classifier-for-Reviews/blob/master/reviewsAndSenti.jpg)
 
-The frequency and score related to words are also can be collected using the program sentimentStatisticsToExcel_4.py. AS an example the frequency and socre related to words is given in wordFreqScore100.xls
+The frequency and score related to words are also can be collected using the program sentimentStatisticsToExcel_4.py. AS an example the frequency and score related to words is given in wordFreqScore100.xls
 
 ![alt text](https://github.com/siddhaling/3D-Visualization-of-Sentiment-Measures-and-Classification-using-Combined-Classifier-for-Reviews/blob/master/wordFreqScore100.jpg)
 
