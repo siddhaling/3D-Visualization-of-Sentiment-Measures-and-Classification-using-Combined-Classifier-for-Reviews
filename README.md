@@ -65,9 +65,9 @@ For further reading and other projects please visit
 
 www.researchreader.com
 
-Dr. Siddhaling Urolagin,
-PhD, Post-Doc, Machine Learning and Data Science Expert,
-Passioinate Researcher, Focus on Deep Learning and its applications,
+Dr. Siddhaling Urolagin,\
+PhD, Post-Doc, Machine Learning and Data Science Expert,\
+Passioinate Researcher, Focus on Deep Learning and its applications,\
 dr.siddhaling@gmail.com
 
 
